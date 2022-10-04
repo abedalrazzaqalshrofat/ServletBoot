@@ -1,0 +1,15 @@
+body {
+    background-color : green;
+}
+
+.ui-g {
+    display:flex;
+}
+
+.ui-g-12 {
+    width:100%;
+}
+
+.ui-g-2 {
+    width: calc(100% / 12);
+}
